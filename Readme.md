@@ -1,0 +1,1 @@
+This repository is for Lab 2 of Stat 386
